@@ -1,0 +1,49 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+
+project:
+  id: c155a71e-86be-4881-8a15-791ccaa91956
+
+  # title: Orientamento ICT - UNIVE e UNIPD
+  # description:
+  # keywords: []
+  # authors: [Anna Ficotto]
+  # github: 
+
+  exclude:
+    - 01-triennali/all.md
+    - 02-magistrali/all.md
+    - confronti.md
+
+  toc:
+    - file: 00-orientamento.md
+    - title: Triennali
+      file: 01-triennali/triennali.md
+      children:
+        - file: 01-triennali/01-informatica-tsi.md
+        - file: 01-triennali/02-informatica-data-science.md
+        - file: 01-triennali/03-informatica-european-cs.md
+        - file: 01-triennali/04-informatica-unipd.md
+        - file: 01-triennali/05-information-engineering.md
+        - file: 01-triennali/06-ingegneria-informatica.md
+        - file: 01-triennali/07-ingegneria-gestionale.md
+        - file: 01-triennali/08-ingegneria-biomedica.md
+    - title: Magistrali
+      file: 02-magistrali/magistrali.md
+      children:
+        - file: 02-magistrali/01-computer-science-and-it.md
+        - file: 02-magistrali/02-computer-engineering.md
+        - file: 02-magistrali/03-international-cybersecurity.md
+        - file: 02-magistrali/04-cybersecurity.md
+        - file: 02-magistrali/05-data-science.md
+        - file: 02-magistrali/06-ingegneria-gestionale.md
+        - file: 02-magistrali/07-bioingegneria.md
+
+site:
+  template: book-theme
+  options:
+    # favicon: favicon.ico
+    # logo: site_logo.png
+
+    hide_outline: true
+    hide_footer_links: true
