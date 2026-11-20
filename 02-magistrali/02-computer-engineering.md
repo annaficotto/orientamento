@@ -14,8 +14,8 @@ title: Computer Engineering
 | **Tipologia di accesso** | Accesso con valutazione; diretto per L-8 UNIPD |
 | **Obiettivo** | Formare ingegneri informatici magistrali con specializzazione in AI/Robotics, Bioinformatics, HPC o Web/Data Engineering |
 | **Curricula** | AI & Robotics · Bioinformatics · High Performance & Big Data · Web Information & Data Engineering |
-| **Link ufficiale** | [DEI UNIPD — Computer Engineering](https://www.dei.unipd.it) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Computer Engineering](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://degrees.dei.unipd.it/master-degrees/computer-engineering/](https://degrees.dei.unipd.it/master-degrees/computer-engineering/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Computer Engineering](https://unipd.coursecatalogue.cineca.it/corsi/2026/2334) |
 
 ## Cosa si studia
 

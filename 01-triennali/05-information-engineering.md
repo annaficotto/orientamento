@@ -13,8 +13,8 @@ title: Information Engineering
 | **Test di ammissione** | **CEnT-S** (nuovo test CISIA per corsi in inglese, a partire dall'A.A. 2026/27) |
 | **Tipologia di accesso** | Accesso programmato con test |
 | **Obiettivo** | Corso ibrido tra informatica e ingegneria: informatica, elettronica, telecomunicazioni, automatica. Il "jolly" dell'offerta UNIPD per chi è indeciso sulla specializzazione |
-| **Link ufficiale** | [apply.unipd.it — Information Engineering](https://apply.unipd.it/courses/course/182-information-engineering) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Information Engineering](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://lauree.dei.unipd.it/lauree/information-engineering/](https://lauree.dei.unipd.it/lauree/information-engineering/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Information Engineering](https://unipd.coursecatalogue.cineca.it/corsi/2026/6319) |
 
 ## Cosa si studia
 

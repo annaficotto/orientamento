@@ -14,8 +14,8 @@ title: Data Science
 | **Tipologia di accesso** | Accesso con valutazione; più inclusiva per profili interdisciplinari rispetto a LM-32 |
 | **Obiettivo** | Formare data scientist e ML specialist di alto livello con approccio matematicamente rigoroso |
 | **Curricula / Percorsi** | Il corso è organizzato in **3 curricula** (di cui 2 internazionali). Il curriculum principale "Data Science" offre **4 percorsi formativi**: Mathematics of Data Science (MDS), Biological Data Analytics (BDA), Cognitive/Social/Economic Data Analytics (CSEDA), Machine Learning and Intelligent Systems (MLIS). Gli altri due curricula sono: Data Engineering and Artificial Intelligence (DEAI) e Trans Mediterranean Data Science (TMDS). |
-| **Link ufficiale** | [Didattica UNIPD — Regolamento Data Science](https://en.didattica.unipd.it/didattica/allegati/regolamento/allegato1/1012412.pdf) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Data Science](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://datascience.math.unipd.it/](https://datascience.math.unipd.it/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Data Science](https://unipd.coursecatalogue.cineca.it/corsi/2026/4320) |
 
 > ⚠️ **Nota critica:** LM-DATA **non è LM-32**. I laureati **non possono sostenere l'Esame di Stato** per iscriversi all'Albo degli Ingegneri, indipendentemente dalla triennale di provenienza. Il Data Scientist non è una professione regolamentata — ma è un vincolo da tenere a mente per percorsi futuri.
 

@@ -15,8 +15,8 @@ title: Ingegneria Gestionale
 | **Obiettivo** | Formare manager-ingegneri per la gestione di sistemi produttivi complessi: operations, supply chain, finanza/controllo, innovazione, tecnologia |
 | **Curricula IT** | Operational Excellence · Strategia e Controllo · Innovazione e Sostenibilità |
 | **Curricula ENG** | Smart Operations · Analytics for Business · Technology Management |
-| **Link ufficiale** | [apply.unipd.it — Ingegneria Gestionale LM](https://apply.unipd.it/courses/course/53-ingegneria-gestionale) |
-| **Piano di studi** | [Coursecatalogue UNIPD — LM-31](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://orientamentodtg.gest.unipd.it/laurea-magistrale-ingegneria-gestionale/](https://orientamentodtg.gest.unipd.it/laurea-magistrale-ingegneria-gestionale/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Ingegneria gestionale](https://unipd.coursecatalogue.cineca.it/corsi/2026/12381) |
 
 ## Cosa si studia
 

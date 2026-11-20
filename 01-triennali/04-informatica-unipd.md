@@ -13,8 +13,8 @@ title: Informatica (UNIPD)
 | **Test di ammissione** | Nessuno — accesso libero |
 | **Tipologia di accesso** | Accesso libero con OFA eventuali |
 | **Obiettivo** | Uno dei corsi L-31 più rigorosi in Italia: solida base teorica (computabilità, complessità) con forte attenzione all'interdisciplinarità |
-| **Link ufficiale** | [Informatica — Presentazione 2026](https://www.scienze.unipd.it/fileadmin/Orientamento/ScegliConNoi2026/13_MATH_Informatica_2026.pdf) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Informatica](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://informatica.math.unipd.it/laurea/](https://informatica.math.unipd.it/laurea/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Informatica](https://unipd.coursecatalogue.cineca.it/corsi/2025/11979) |
 
 ## Cosa si studia
 

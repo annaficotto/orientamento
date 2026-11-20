@@ -13,8 +13,8 @@ title: International Cybersecurity and Cyberintelligence
 | **Test di ammissione** | Verifica dei requisiti curriculari |
 | **Tipologia di accesso** | Accesso con valutazione del curriculum |
 | **Obiettivo** | Formare esperti di cybersecurity con doppia competenza: tecnica + geopolitica/legale/intelligence. Per chi vuole capire la sicurezza nel contesto globale, non solo "sporcarsi le mani" tecnicamente |
-| **Link ufficiale** | [DEI UNIPD — Cybersecurity](https://www.dei.unipd.it) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Int'l Cybersecurity](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://www.unipd.it/corsi-di-laurea/international-cybersecurity-and-cyberintelligence](https://www.unipd.it/corsi-di-laurea/international-cybersecurity-and-cyberintelligence) |
+| **Piano di studi** | [Coursecatalogue UNIPD — International Cybersecurity and Cyberintelligence](https://unipd.coursecatalogue.cineca.it/corsi/2026/9983) |
 
 > ⚠️ Nonostante condivida la classe LM-66 con "Cybersecurity", questo è un corso **completamente diverso**: la componente geopolitico-legale lo distingue radicalmente. Non sono intercambiabili.
 

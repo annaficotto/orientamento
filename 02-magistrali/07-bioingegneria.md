@@ -14,10 +14,10 @@ title: Bioingegneria
 | **Tipologia di accesso** | **Accesso libero con requisiti**  |
 | **Obiettivo** | Formare ingegneri biomedici completi, operativi al confine tra ingegneria e medicina: dispositivi, segnali fisiologici, tecnologie sanitarie, ricerca biomedica |
 | **Curricula** | Sanità digitale e ingegneria clinica · Bioingegneria industriale · Modelli e analisi di dati biomedicali · Bioingegneria per le neuroscienze · Bioingegneria della riabilitazione |
-| **Link ufficiale** | [DEI UNIPD — Bioingegneria LM-21](https://www.unipd.it/en/educational-offer/second-cycle-degrees/second-cycle-degrees/school-of-engineering?ordinamento=2020&key=IN0532&tipo=LM&scuola=IN) |
-| **Piano di studi** | [DEI UNIPD — Allegato 3 Bioingegneria](https://www.dei.unipd.it/system/files/LM-IBM%20Allegato%203_(IN%20VISIONE).pdf) |
+| **Link ufficiale** | [https://www.unipd.it/corsi-di-laurea/bioingegneria](https://www.unipd.it/corsi-di-laurea/bioingegneria) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Bioingegneria](https://unipd.coursecatalogue.cineca.it/corsi/2026/12372) |
 
-> ⚠️ **Accesso da altre triennali:** il percorso naturale è Ingegneria Biomedica (L-8/L-9 UNIPD) → LM-21. Chi proviene da altri L-8 (es. Information Engineering, Ingegneria Informatica) può accedere, ma potrebbe dover integrare crediti in ambito biologico/fisiologico. Verificare sempre il Regolamento Didattico (Art. 2) sul sito UNIPD.
+> ⚠️ **Accesso da altre triennali:** il percorso naturale è Ingegneria Biomedica (L-8/L-9 UNIPD) → LM-21. Chi proviene da altri L-8 (es. Information Engineering, Ingegneria Informatica) può accedere, ma potrebbe dover integrare crediti in ambito biologico/fisiologico. Verificare sempre il [Regolamento Didattico](https://unipd.coursecatalogue.cineca.it/corsi/2026/12372) (Art. 2) sul sito UNIPD.
 
 ## Cosa si studia
 

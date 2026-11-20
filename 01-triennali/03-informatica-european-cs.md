@@ -13,8 +13,8 @@ title: Informatica - European Computer Science
 | **Test di ammissione** | Nessuno per Ca' Foscari; eventuale selezione interna per il Consorzio ECS |
 | **Tipologia di accesso** | Accesso libero + selezione per la mobilità internazionale |
 | **Obiettivo** | Percorso internazionale con doppio diploma in European Computer Science presso una delle università del Consorzio ECS |
-| **Link ufficiale** | [unive.it/cdl/ct3](https://www.unive.it/cdl/ct3) |
-| **Piano di studi** | [Insegnamenti e orari — Ca' Foscari](https://www.unive.it/data/8321/) |
+| **Link ufficiale** | [https://www.unive.it/web/it/9139/home](https://www.unive.it/web/it/9139/home) |
+| **Piano di studi** | [https://www.unive.it/data/it/9095/insegnamenti-e-orari](https://www.unive.it/data/it/9095/insegnamenti-e-orari) |
 
 ## Cosa si studia
 

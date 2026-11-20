@@ -13,8 +13,8 @@ title: Ingegneria Biomedica
 | **Test di ammissione** | **TOLC-I** |
 | **Tipologia di accesso** | Accesso programmato con test |
 | **Obiettivo** | Formare ingegneri con conoscenze interdisciplinari in grado di applicare i metodi dell'ingegneria alla soluzione di problemi biologici e medici |
-| **Link ufficiale** | [unipd.it — Bioengineering](https://www.unipd.it/en/educational-offer/second-cycle-degrees/second-cycle-degrees/school-of-engineering?ordinamento=2020&key=IN0532&tipo=LM&scuola=IN) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Ing. Biomedica](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://lauree.dei.unipd.it/lauree/ingegneria-biomedica/](https://lauree.dei.unipd.it/lauree/ingegneria-biomedica/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Ing. Biomedica](https://unipd.coursecatalogue.cineca.it/corsi/2026/12568) |
 
 ## Cosa si studia
 

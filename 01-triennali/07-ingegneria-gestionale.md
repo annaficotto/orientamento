@@ -13,8 +13,8 @@ title: Ingegneria Gestionale
 | **Test di ammissione** | **TOLC-I** |
 | **Tipologia di accesso** | Accesso programmato con test |
 | **Obiettivo** | Formare figure che uniscono conoscenze ingegneristiche sui processi industriali alla capacità di analizzare e risolvere problemi gestionali. Il punto d'incontro tra ingegneria e management |
-| **Link ufficiale** | [apply.unipd.it — Ingegneria Gestionale](https://apply.unipd.it/courses/course/53-ingegneria-gestionale) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Ing. Gestionale](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://orientamentodtg.gest.unipd.it/laurea-ingegneria-gestionale/](https://orientamentodtg.gest.unipd.it/laurea-ingegneria-gestionale/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Ing. Gestionale](https://unipd.coursecatalogue.cineca.it/corsi/2026/12377) |
 
 ## Cosa si studia
 

@@ -13,8 +13,8 @@ title: Informatica - Data Science
 | **Test di ammissione** | Nessuno — accesso libero |
 | **Tipologia di accesso** | Accesso libero con OFA eventuali |
 | **Obiettivo** | Formare figure con doppia competenza: informatica di base + specializzazione precoce su gestione, analisi e valorizzazione dei dati |
-| **Link ufficiale** | [unive.it/cdl/ct3](https://www.unive.it/cdl/ct3) |
-| **Piano di studi** | [Insegnamenti e orari — Ca' Foscari](https://www.unive.it/data/8321/) |
+| **Link ufficiale** | [https://www.unive.it/web/it/9139/home](https://www.unive.it/web/it/9139/home) |
+| **Piano di studi** | [https://www.unive.it/data/it/9095/insegnamenti-e-orari](https://www.unive.it/data/it/9095/insegnamenti-e-orari) |
 
 ## Cosa si studia
 

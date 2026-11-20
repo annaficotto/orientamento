@@ -14,8 +14,8 @@ title: Computer Science and Information Technology
 | **Tipologia di accesso** | Accesso con valutazione del curriculum |
 | **Obiettivo** | Formare informatici magistrali con competenze avanzate in AI/Data Engineering, Cybersecurity o Software Engineering, in un contesto interamente in inglese |
 | **Curricula** | AI and Data Engineering · Cybersecurity · Software Development and Engineering |
-| **Link ufficiale** | [unive.it — Computer Science and IT](https://www.unive.it/data/8321/) |
-| **Piano di studi** | [Insegnamenti e orari — Ca' Foscari](https://www.unive.it/data/8321/) |
+| **Link ufficiale** | [https://www.unive.it/web/it/2777/home](https://www.unive.it/web/it/2777/home) |
+| **Piano di studi** | [https://www.unive.it/data/it/2752/insegnamenti-e-orari](https://www.unive.it/data/it/2752/insegnamenti-e-orari) |
 
 ## Cosa si studia
 

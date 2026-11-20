@@ -13,8 +13,8 @@ title: Cybersecurity
 | **Test di ammissione** | Verifica dei requisiti curriculari |
 | **Tipologia di accesso** | Accesso con valutazione del curriculum |
 | **Obiettivo** | Formare tecnici specializzati nella sicurezza informatica: penetration testing, forensics, crittografia applicata, malware analysis. Per chi vuole "sporcarsi le mani" |
-| **Link ufficiale** | [DEI UNIPD — Cybersecurity](https://www.dei.unipd.it) |
-| **Piano di studi** | [scienze.unipd.it — Regolamento Cybersecurity](https://www.scienze.unipd.it/fileadmin/Regolamenti/idra/2025-2026/LM/allegato1/1012384_allegato_1.pdf) |
+| **Link ufficiale** | [https://cybersecurity.math.unipd.it/](https://cybersecurity.math.unipd.it/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Cybersecurity](https://unipd.coursecatalogue.cineca.it/corsi/2026/9985) |
 
 ## Cosa si studia
 

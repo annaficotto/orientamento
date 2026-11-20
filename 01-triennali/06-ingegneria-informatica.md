@@ -13,8 +13,8 @@ title: Ingegneria Informatica
 | **Test di ammissione** | **TOLC-I** |
 | **Tipologia di accesso** | Accesso programmato con test |
 | **Obiettivo** | Il percorso più direttamente ingegneristico: progettazione di sistemi software e hardware, reti, embedded, automazione |
-| **Link ufficiale** | [unipd.it — Ammissioni ingegneria](https://www.unipd.it/ammissioni-ing-triennali-programmato) |
-| **Piano di studi** | [Coursecatalogue UNIPD — Ingegneria Informatica](https://unipd.coursecatalogue.cineca.it/corsi/2025) |
+| **Link ufficiale** | [https://lauree.dei.unipd.it/lauree/ingegneria-informatica/](https://lauree.dei.unipd.it/lauree/ingegneria-informatica/) |
+| **Piano di studi** | [Coursecatalogue UNIPD — Ingegneria Informatica](https://unipd.coursecatalogue.cineca.it/corsi/2026/12162) |
 
 ## Cosa si studia
 
